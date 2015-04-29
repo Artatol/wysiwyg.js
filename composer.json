@@ -1,0 +1,13 @@
+{
+	"name": "wysiwygjs",
+	"type": "library",
+	"description": "wysiwyg.js",
+	"homepage": "http://wysiwygjs.github.io/",
+	"license": ["http://www.apache.org/licenses/LICENSE-2.0"],
+	"authors": [
+		{
+			"name": "wysiwyg.js",
+			"homepage": "http://wysiwygjs.github.io/"
+		}
+	]
+}
